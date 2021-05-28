@@ -1,7 +1,7 @@
 import string
 import os
-import re
-import codecs
+#import re (regex)
+#import codecs
 from pyspark import SparkContext, SparkConf
 
 def main():
